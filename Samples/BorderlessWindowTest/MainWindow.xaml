@@ -1,0 +1,9 @@
+﻿<lib:BorderlessWindow x:Class="BorderlessWindowTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:lib="clr-namespace:TMTech.Shared.WPFLIB.Controls;assembly=TMTech.Shared.WPFLIB"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        
+    </Grid>
+</lib:BorderlessWindow>

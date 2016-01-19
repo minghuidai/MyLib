@@ -1,0 +1,36 @@
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\bin\Debug\TMTech.Shared.WPFLIB.dll
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\bin\Debug\TMTech.Shared.WPFLIB.pdb
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB_MarkupCompile.cache
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB_MarkupCompile.lref
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\Basic.baml
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\DialogBase.baml
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\Generic.baml
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\MessageDialog.baml
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\SearchBox.baml
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\TMTechWindow.baml
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\WindowBase.baml
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB.g.resources
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB.Properties.Resources.resources
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB.csproj.GenerateResource.Cache
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB.dll
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB.pdb
+C:\Projects\ePerform\Dev\2.4.x\bin\TMTech.Shared.WPFLIB.dll
+C:\Projects\ePerform\Dev\2.4.x\bin\TMTech.Shared.WPFLIB.pdb
+C:\Projects\ePerform\Dev\2.4.x\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB.csprojResolveAssemblyReference.cache
+C:\Projects\Github\My LIBs\bin\TMTech.Shared.WPFLIB.dll
+C:\Projects\Github\My LIBs\bin\TMTech.Shared.WPFLIB.pdb
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB_MarkupCompile.cache
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB_MarkupCompile.lref
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\Basic.baml
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\Generic.baml
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\MessageDialog.baml
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\SearchBox.baml
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\BorderlessWindowBasic.baml
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\Themes\BorderlessWindow.baml
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB.g.resources
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB.Properties.Resources.resources
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB.csproj.GenerateResource.Cache
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB.dll
+C:\Projects\Github\My LIBs\TMTech.ePERFORM.WPFLIB\obj\Debug\TMTech.Shared.WPFLIB.pdb
