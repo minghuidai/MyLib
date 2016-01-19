@@ -4,6 +4,6 @@
         xmlns:lib="clr-namespace:TMTech.Shared.WPFLIB.Controls;assembly=TMTech.Shared.WPFLIB"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Label>testing github</Label>
     </Grid>
 </lib:BorderlessWindow>
